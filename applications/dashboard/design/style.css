@@ -2952,8 +2952,8 @@ div.Popup form ul li label.RadioLabel {
 
 .PoweredByVanilla {
     display: inline-block;
-    height: 500px;
-    width: 600px;
+    height: 250px;
+    width: 300px;
     background: url('images/comp-356-logo-light.png') center center no-repeat;
     background: url('images/vanilla-forums-light-bg-70x33.png') center center no-repeat;
     line-height: 999px;
